@@ -1,0 +1,17 @@
+{
+  "name": "Manager Lover",
+  "description": "For manga lover",
+  "version": "1.0",
+  "icons": { "16": "icon16.png",
+           "48": "icon48.png",
+          "128": "icon128.png" },
+  "permissions": ["contextMenus"],
+  "content_scripts": [
+    {
+      "matches": ["http://kissmanga.com/*"],
+      "js": ["jquery.js", "script.js"],
+      "run_at" : "document_end"
+    }
+  ],
+  "manifest_version": 2
+}
