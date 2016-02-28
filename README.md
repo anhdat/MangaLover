@@ -1,10 +1,12 @@
-*Manga Lover*
+* Manga Lover
 
-**How to use**
+*** How to use
+
 Use your longest button to read
 
-**Avaiable sites**
+***Avaiable sites
 - [kissmanga.com](http://kissmanaga.com)
 
-**Contact**
+*** Contact
+
 Meobeoi @ meobeoi.com
